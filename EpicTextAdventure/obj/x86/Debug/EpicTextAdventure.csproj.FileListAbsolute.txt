@@ -1,0 +1,6 @@
+C:\Users\brettc\documents\visual studio 2010\Projects\EpicTextAdventure\EpicTextAdventure\bin\Debug\EpicTextAdventure.exe
+C:\Users\brettc\documents\visual studio 2010\Projects\EpicTextAdventure\EpicTextAdventure\bin\Debug\EpicTextAdventure.pdb
+C:\Users\brettc\documents\visual studio 2010\Projects\EpicTextAdventure\EpicTextAdventure\obj\x86\Debug\EpicTextAdventure.exe
+C:\Users\brettc\documents\visual studio 2010\Projects\EpicTextAdventure\EpicTextAdventure\obj\x86\Debug\EpicTextAdventure.pdb
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\EpicTextAdventure\EpicTextAdventure\obj\x86\Debug\EpicTextAdventure.csprojAssemblyReference.cache
+C:\Users\brettc\Documents\Visual Studio 2010\Projects\EpicTextAdventure\EpicTextAdventure\obj\x86\Debug\EpicTextAdventure.csproj.CoreCompileInputs.cache
